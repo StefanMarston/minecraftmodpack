@@ -12,6 +12,7 @@ cp ~/Downloads/fabric-installer-1.0.3.jar ~/mc_installer
 java -jar fabric-installer-1.0.3.jar client -dir mc_installer
 mv ~/Downloads/mods ~/mc_installer
 ```
+
 Windows:
 ```Windows
 unzip mods.zip -d ~/mc_installation/mods
@@ -24,4 +25,4 @@ move C:\Downloads\mods C:\mc_installation
 
 # How to connect
 
-The IP is not public yet for security reasons!
+IP: 87.150.188.137:25558
