@@ -6,17 +6,20 @@ download the directory in https://drive.google.com/drive/folders/1rZoajq5RWUherW
 
 Linux / BSD / MacOS:
 ```Linux & MacOS
+unzip mods.zip -d ~/mc_installer/mods
 mkdir mc_installer
 cp ~/Downloads/fabric-installer-1.0.3.jar ~/mc_installer
-java -Xms250m -Xmx1G fabric-installer-1.0.3.jar
+java -jar fabric-installer-1.0.3.jar client -dir mc_installer
 mv ~/Downloads/mods ~/mc_installer
 ```
 Windows:
 ```Windows
-mkdir mc_installation
-cp C:\\Downloads\fabric-installer-1.0.3.jar C:\\mc_installaion
-java -Xms250m -Xmx1G fabric-installer-1.0.3.jar
-mv C:\\Downloads\mods C:\\mc_installation
+unzip mods.zip -d ~/mc_installation/mods
+mkdir C:\mc_installation
+copy C:\Downloads\fabric-installer-1.0.3.jar C:\mc_installation
+cd C:\mc_installation
+java -jar fabric-installer-1.0.3.jar client -dir mc_installation
+move C:\Downloads\mods C:\mc_installation
 ```
 
 # How to connect
