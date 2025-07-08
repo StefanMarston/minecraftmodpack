@@ -23,6 +23,12 @@ java -jar fabric-installer-1.0.3.jar client -dir mc_installation
 move C:\Downloads\mods C:\mc_installation
 ```
 
+# Mods
+
+You can add any mods you want to use to the modpack. all mods in the prepared modpack are REQUIRED to join. 
+adding Mods to the modpack is nothing bad.
+pleas don't cheat.
+
 # How to connect
 
 IP: 87.150.188.137:25558
