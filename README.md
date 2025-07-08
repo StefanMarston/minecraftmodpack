@@ -18,3 +18,7 @@ cp C:\\Downloads\fabric-installer-1.0.3.jar C:\\mc_installaion
 java -Xms250m -Xmx1G fabric-installer-1.0.3.jar
 mv C:\\Downloads\mods C:\\mc_installation
 ```
+
+# How to connect
+
+The IP is not public yet for security reasons!
