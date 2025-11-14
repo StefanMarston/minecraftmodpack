@@ -2,7 +2,7 @@
 
 # How to download the modpack
 
-download the directory in https://drive.google.com/drive/folders/1rZoajq5RWUherW5SbOwlFbzS9Ox3fUwb?usp=sharing and paste it in your modded minecraft installation. If you dont have any: download https://fabricmc.net/use/installer
+download the directory in https://drive.google.com/drive/folders/1rZoajq5RWUherW5SbOwlFbzS9Ox3fUwb?usp=sharing and paste it in your modded minecraft installation. If you dont have any: download [https://fabricmc.net/use/installer](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html)
 
 Linux / BSD / MacOS:
 ```Linux & MacOS
