@@ -28,7 +28,3 @@ move C:\Downloads\mods C:\mc_installation
 You can add any mods you want to use to the modpack. all mods in the prepared modpack are REQUIRED to join. 
 adding Mods to the modpack is nothing bad.
 pleas don't cheat.
-
-# How to connect
-
-IP: 91.56.53.131:25561
