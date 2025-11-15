@@ -8,8 +8,8 @@ Linux / BSD / MacOS:
 ```Linux & MacOS
 unzip mods.zip -d ~/mc_installer/mods
 mkdir mc_installer
-cp ~/Downloads/fabric-installer-1.0.3.jar ~/mc_installer
-java -jar fabric-installer-1.0.3.jar client -dir mc_installer
+cp ~/Downloads/forge-1.20.1-47.4.0-installer.jar ~/mc_installer
+java -jar forge-1.20.1-47.4.0-installer.jar client -dir mc_installer
 mv ~/Downloads/mods ~/mc_installer
 ```
 
@@ -17,9 +17,9 @@ Windows:
 ```Windows
 unzip mods.zip -d ~/mc_installation/mods
 mkdir C:\mc_installation
-copy C:\Downloads\fabric-installer-1.0.3.jar C:\mc_installation
+copy C:\Downloads\forge-1.20.1-47.4.0-installer.jar C:\mc_installation
 cd C:\mc_installation
-java -jar fabric-installer-1.0.3.jar client -dir mc_installation
+java -jar forge-1.20.1-47.4.0-installer.jar client -dir mc_installation
 move C:\Downloads\mods C:\mc_installation
 ```
 
